@@ -136,7 +136,7 @@ function Index({getAllUserData,users}) {
                     </Select>
                 </Col>
                 <Col span={4}>
-                    <Button onClick={onResetFilter}>Reset Filter</Button>
+                    <Button onClick={onResetFilter} data-testid="reset-filter">Reset Filter</Button>
                 </Col>
             </Row>
             <Table 
