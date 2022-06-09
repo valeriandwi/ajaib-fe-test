@@ -3,6 +3,9 @@
 This project was created to show the table of random user datas. The random of user datas is getting from 
 [Random User API](https://randomuser.me).
 
+## Preview
+You can see the preview this project at [https://ajaib-fe-test.web.app/](https://ajaib-fe-test.web.app/)
+
 ## Built With
 
 - [React](https://reactjs.org)
